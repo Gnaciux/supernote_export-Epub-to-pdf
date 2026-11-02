@@ -127,5 +127,3 @@ See [CHANGELOG.md](CHANGELOG.md).
 I built this plugin together with [Claude](https://claude.ai), Anthropic's AI assistant.
 Claude wrote most of the code following my direction: I defined what the plugin should do,
 designed the logo and the interface, tested it on my Supernote and made the decisions along the way.
-
----

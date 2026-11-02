@@ -1,0 +1,2 @@
+buildPlugin.ps1 linguist-vendored
+buildPlugin.sh linguist-vendored
