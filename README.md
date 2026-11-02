@@ -129,10 +129,3 @@ Claude wrote most of the code following my direction: I defined what the plugin 
 designed the logo and the interface, tested it on my Supernote and made the decisions along the way.
 
 ---
-
-### En español
-
-Plugin para Supernote que exporta el EPUB abierto a un PDF idéntico a como se ve en la Supernote, con tus notas a
-mano, el fosforito y los subrayados de texto encima. Descarga el `.snplg` en [Releases](../../releases), cópialo a
-la carpeta `MyStyle` e instálalo en **Ajustes › Aplicaciones › Plugins › Añadir plugin**. La interfaz sale en
-español si la Supernote está en español.
