@@ -122,6 +122,14 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ---
 
+## How this was made
+
+I built this plugin together with [Claude](https://claude.ai), Anthropic's AI assistant.
+Claude wrote most of the code following my direction: I defined what the plugin should do,
+designed the logo and the interface, tested it on my Supernote and made the decisions along the way.
+
+---
+
 ### En español
 
 Plugin para Supernote que exporta el EPUB abierto a un PDF idéntico a como se ve en la Supernote, con tus notas a
