@@ -1,0 +1,15 @@
+{
+  "name": "Export EPUB to PDF",
+  "desc": "Export the open EPUB (or PDF) to a PDF that looks exactly like it does on your Supernote: the page as the device lays it out, with your handwritten notes, marker highlights and text highlights on top. Choose annotated pages only, the current page, a page range or the whole book. The PDF is saved to the EXPORT folder. Works offline. Permissions: read (to read your annotations) and write (to save the PDF in EXPORT).",
+  "iconPath": "assets/plugin_icon.png",
+  "versionName": "1.2.2",
+  "versionCode": "5",
+  "pluginID": "x4zvwaq9nm2e13da",
+  "pluginKey": "EpubPdfExport",
+  "jsMainPath": "index",
+  "author": "Gnaciux",
+  "uses-permissions": [
+    "plugin.permission.FILE:READ",
+    "plugin.permission.FILE:WRITE"
+  ]
+}
